@@ -1,0 +1,11 @@
+{
+  "Name": "[CP] Large Batch Producers Context Tags",
+  "Author": "ValancedBreakfast",
+  "Version": "1.0",
+  "Description": "Adds context tags to objects used by [PFM] Large Batch Producers.",
+  "UniqueID": "ValancedBreakfast.LBPContextTags",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+	"Name": "[MFM] Universal Basic Income Now",
+	"Author": "ValancedBreakfast",
+	"Version": "1.0.0",
+	"Description": "Receive universal basic income by mail once per week.",
+	"UniqueID": "ValancedBreakfast.UBINow",
+	"MinimumApiVersion": "3.8.0",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod",
+        "MinimumVersion": "1.10.1"
+	}
+}

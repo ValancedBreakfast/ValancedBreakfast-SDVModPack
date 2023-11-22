@@ -1,0 +1,27 @@
+{
+   "Format": "1.19.0",
+   "Changes": [
+      {
+         "Action": "EditData",
+         "Target": "Data/CookingRecipes",
+         "Fields": {
+            "Survival Burger": {
+				// bread, cave carrot, common mushroom
+               0: "216 1 78 1 404 1"
+            }
+         }
+	  },
+	  {
+         "Action": "EditData",
+         "Target": "Data/CookingRecipes",
+         "Fields": {
+            "Survival Burger": {
+			   4: "{{i18n:some-key |default=+}}"
+            }
+         },
+		 "When":{
+			 "Language |contains=en": "false"
+		 }
+       }
+   ]
+}

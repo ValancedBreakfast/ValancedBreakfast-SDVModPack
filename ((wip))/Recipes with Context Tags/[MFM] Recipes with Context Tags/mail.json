@@ -1,0 +1,14 @@
+[
+	{
+		"Id": "DGARecipesMail.CarrotCake",
+		"Text": "Learn carrot cake recipe",
+		"Recipe": "CraftCarrotCake",
+        "Date": "1 spring Y1"
+	},
+/*	{
+		"Id": "DGARecipesMail.NewFriedEgg",
+		"Text": "Learn fried egg recipe",
+		"Recipe": "New Fried Egg",
+        "Date": "1 spring Y1"
+	},*/
+]

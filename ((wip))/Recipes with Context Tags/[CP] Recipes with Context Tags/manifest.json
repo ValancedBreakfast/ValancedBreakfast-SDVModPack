@@ -1,0 +1,11 @@
+{
+  "Name": "[CP] Recipes with Context Tags",
+  "Author": "ValancedBreakfast",
+  "Version": "1.0",
+  "Description": "Remove vanilla recipes from Data/CookingRecipes.",
+  "UniqueID": "ValancedBreakfast.DGARecipesCP",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

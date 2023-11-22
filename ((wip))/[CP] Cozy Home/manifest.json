@@ -1,0 +1,11 @@
+{
+    "Name": "Cozy Home",
+    "Author": "Valanced Breakfast",
+    "Version": "0.0.1",
+    "UniqueID": "valancedbreakfast.cozyhome",
+    "MinimumApiVersion": "2.11.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

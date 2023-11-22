@@ -1,0 +1,19 @@
+{
+    "Name": "Garden Farm",
+    "Author": "ValancedBreakfast",
+    "Version": "1.2",
+    "Description": "Cozy garden farm. Based on DaisyNiko's Tiny Garden Farm.",
+    "UniqueID": "ValancedBreakfast.GardenFarm",
+    "MinimumApiVersion": "2.11.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies":
+    [
+        {
+            "UniqueID":"aedenthorn.ExtraMapLayers",
+            "IsRequired":false
+        }
+    ]
+}

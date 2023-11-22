@@ -1,0 +1,7 @@
+{
+  "object.CarrotCake.name": "Carrot Cake",
+  "object.CarrotCake.description": "It's a carrot cake.",
+
+  "crafting.CraftCarrotCake.name": "Carrot Cake",
+  "crafting.CraftCarrotCake.description": "Recipe for a carrot cake.",
+}

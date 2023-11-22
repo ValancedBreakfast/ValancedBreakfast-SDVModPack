@@ -1,0 +1,1018 @@
+{
+  "Harvests": [
+    {
+      "CropName": "Parsnip",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Parsnip",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Parsnip Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Unmilled Rice",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Unmilled Rice",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Rice Shoot",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Potato",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Potato",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Potato Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Blue Jazz",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Blue Jazz",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Jazz Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Cauliflower",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Cauliflower",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Cauliflower Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Coffee Bean",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Coffee Bean",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Garlic",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Garlic",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Garlic Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Green Bean",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Green Bean",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Bean Starter",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Kale",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Kale",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Kale Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Rhubarb",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Rhubarb",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Rhubarb Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Strawberry",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Strawberry",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Strawberry Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Tulip",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Tulip",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Tulip Bulb",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Blueberry",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Blueberry",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Blueberry Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Corn",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Corn",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Corn Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Hops",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Hops",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Hops Starter",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Hot Pepper",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Hot Pepper",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Pepper Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Melon",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Melon",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Melon Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Poppy",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Poppy",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Poppy Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Radish",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Radish",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Radish Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Red Cabbage",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Red Cabbage",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Red Cabbage Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Starfruit",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Starfruit",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Starfruit Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Summer Spangle",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Summer Spangle",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Spangle Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Sunflower",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Sunflower",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Sunflower Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Tomato",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Tomato",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Tomato Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Wheat",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Wheat",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Wheat Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Grape",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Grape",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Grape Starter",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Pumpkin",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Pumpkin",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Pumpkin Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Amaranth",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Amaranth",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Amaranth Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Artichoke",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Artichoke",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Artichoke Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Beet",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Beet",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Beet Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Bok Choy",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Bok Choy",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Bok Choy Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Cranberries",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Cranberries",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Cranberry Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Eggplant",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Eggplant",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Eggplant Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Fairy Rose",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Fairy Rose",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Fairy Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Yam",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Yam",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Yam Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Ancient Fruit",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Ancient Fruit",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Ancient Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "CropName": "Sweet Gem Berry",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Sweet Gem Berry",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Rare Seed",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    { "CropName": "Cactus Fruit",
+      "HarvestRules": [
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Cactus Fruit",
+          "minHarvest": 0,
+          "maxHarvest": 2,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        },
+        {
+          "ExtraYieldItemType": "Object",
+          "ItemName": "Cactus Seeds",
+          "minHarvest": 0,
+          "maxHarvest": 0,
+          "maxHarvestIncreasePerFarmingLevel": 0,
+          "disableWithMods": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

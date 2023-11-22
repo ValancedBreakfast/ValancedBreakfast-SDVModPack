@@ -1,0 +1,13 @@
+﻿{
+	"Name": "[MFM] Queen of Sauce Zine",
+	"Author": "ValancedBreakfast",
+	"Version": "1.0.0",
+	"Description": "Receive Queen of Sauce recipes by mailed zine each Sunday.",
+	"UniqueID": "ValancedBreakfast.QOSZine",
+	"MinimumApiVersion": "3.8.0",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod",
+        "MinimumVersion": "1.10.1"
+	}
+}

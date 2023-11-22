@@ -1,0 +1,13 @@
+{
+	"Format": "1.19.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/CookingRecipes",
+			"Entries": {
+		// remove entries by setting to null
+				"Fried Egg": null,
+			}
+		}
+	]
+}

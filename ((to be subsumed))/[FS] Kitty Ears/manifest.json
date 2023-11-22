@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Kitty Ears",
+  "Author": "Trudos",
+  "Version": "1.0.1",
+  "Description": "Cat ears for your farmer.",
+  "UniqueID": "Trudos.KittyEars.FashionSensePack",
+  "UpdateKeys": ["Nexus:19136"],
+  "Dependencies": [
+    {
+      "UniqueID": "PeacefulEnd.FashionSense",
+      "MinimumVersion": "5.8.0"
+    }
+  ],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "5.8.1"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "Name": "[DGA] Recipes with Context Tags",
+    "Author": "ValancedBreakfast",
+    "Version": "1.0.0",
+    "Description": "Testing using DGA to make recipes with context tags.",
+    "UniqueID": "ValancedBreakfast.DGARecipes",
+    "ContentPackFor": { "UniqueID": "spacechase0.DynamicGameAssets" },
+    "UpdateKeys": [],
+
+    "DGA.FormatVersion": 2,
+    "DGA.ConditionsFormatVersion": "1.23.0"
+  }
+  

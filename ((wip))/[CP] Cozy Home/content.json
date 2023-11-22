@@ -1,0 +1,11 @@
+{
+    "Format": "1.18",
+    "Changes": [
+        //farm map
+        {
+            "Action": "Load",
+            "Target": "Maps/FarmHouse",
+            "FromFile": "assets/FarmHouse1_cozyhome.tbin",
+        }
+    ]
+}

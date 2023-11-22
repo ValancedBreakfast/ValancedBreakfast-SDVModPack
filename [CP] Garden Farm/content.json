@@ -1,0 +1,65 @@
+{
+    "Format": "1.18",
+    "ConfigSchema": {
+        "FarmToReplace": {
+            "AllowValues": "Standard, Riverland, Forest, Hilltop, Wilderness",
+            "Default": "Forest"
+        }
+    },
+    "DynamicTokens": [
+        {
+            "Name": "file",
+            "Value": "Farm",
+            "When": {
+                "FarmToReplace": "Standard"
+            }
+        },
+        {
+            "Name": "file",
+            "Value": "Farm_Fishing",
+            "When": {
+                "FarmToReplace": "Riverland"
+            }
+        },
+        {
+            "Name": "file",
+            "Value": "Farm_Foraging",
+            "When": {
+                "FarmToReplace": "Forest"
+            }
+        },
+        {
+            "Name": "file",
+            "Value": "Farm_Mining",
+            "When": {
+                "FarmToReplace": "Hilltop"
+            }
+        },
+        {
+            "Name": "file",
+            "Value": "Farm_Combat",
+            "When": {
+                "FarmToReplace": "Wilderness"
+            }
+        }
+    ],
+    "Changes": [
+        //farm map
+        {
+            "Action": "Load",
+            "Target": "Maps/{{file}}",
+            "FromFile": "assets/Farm_Garden.tbin"
+        },
+        //strings
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "tgf.1": "` Mountain",
+                "tgf.2": "` {{FarmName}} Farm Cave^> Pelican Town",
+                "tgf.3": "{ Cindersap Forest"
+            }
+        }
+
+    ]
+}

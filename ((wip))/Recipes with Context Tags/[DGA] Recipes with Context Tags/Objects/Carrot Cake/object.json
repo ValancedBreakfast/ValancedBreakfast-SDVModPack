@@ -1,0 +1,40 @@
+[
+	{
+		"$ItemType": "Object",
+		"ID": "CarrotCake",
+		"Texture": "Objects/Carrot Cake/object.png:0",
+		"Category": "Cooking",
+		"Edibility": 58,
+		"SellPrice": 490
+	},
+    {
+        "$ItemType": "CraftingRecipe",
+        "ID": "CraftCarrotCake",
+        "IsCooking": true,
+		"Result": {
+            "Type": "DGAItem",
+            "Value": "ValancedBreakfast.DGARecipes/CarrotCake",
+            "Quantity": 1
+        },
+        "Ingredients": [
+            {
+            	"Type": "ContextTag",
+            	"Value": "cooking_ingredient_carrot",
+				"NameOverride": "any carrot",
+            	"IconOverride": "Assets/anycarrot.png:0"
+            },
+            {
+                "Type": "VanillaObject",
+                "Value": -5
+            },
+            {
+                "Type": "VanillaObject",
+                "Value": 246
+            },
+            {
+                "Type": "VanillaObject",
+                "Value": -6
+            }
+        ]
+    }
+]

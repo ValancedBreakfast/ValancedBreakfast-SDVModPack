@@ -1,0 +1,11 @@
+{
+  "Name": "[MYC] Bunches of Crops",
+  "Author": "ValancedBreakfast",
+  "Version": "1.0",
+  "Description": "Crops yield multiple items and seeds.",
+  "UniqueID": "ValancedBreakfast.BunchesOfCrops",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+	"UniqueID": "Cherry.MultiYieldCrops",
+  },
+}

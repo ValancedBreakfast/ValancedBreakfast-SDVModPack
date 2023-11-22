@@ -1,0 +1,12 @@
+{
+    "Name": "Lush Greenhouse",
+    "Author": "ValancedBreakfast",
+    "Version": "1.0",
+    "Description": "Lush greenhouse for trees and crops. Based on DaisyNiko's Oasis Greenhouse.",
+    "UniqueID": "ValancedBreakfast.LushGreenhouse",
+    "MinimumApiVersion": "2.11.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

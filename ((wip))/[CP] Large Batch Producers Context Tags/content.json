@@ -1,0 +1,145 @@
+{
+	"Format": "1.19.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/ObjectContextTags",
+			"TextOperations": [
+			// add cooking_ingredient_carrot for DGA testing
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Cave Carrot"],
+					"Value": "cooking_ingredient_carrot",
+					"Delimiter": ", "
+				},
+			// add fruit_item_small
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Blackberry"],
+					"Value": "fruit_item_small",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Blueberry"],
+					"Value": "fruit_item_small",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Cherry"],
+					"Value": "fruit_item_small",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Cranberries"],
+					"Value": "fruit_item_small",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Salmonberry"],
+					"Value": "fruit_item_small",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Strawberry"],
+					"Value": "fruit_item_small",
+					"Delimiter": ", "
+				},
+			// add fruit_item_large
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Melon"],
+					"Value": "fruit_item_large",
+					"Delimiter": ", "
+				},
+			// add vegetable_item_small
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Fiddlehead Fern"],
+					"Value": "vegetable_item_small",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Green Bean"],
+					"Value": "vegetable_item_small",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Radish"],
+					"Value": "vegetable_item_small",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Spring Onion"],
+					"Value": "vegetable_item_small",
+					"Delimiter": ", "
+				},
+			// add vegetable_item_large
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Cauliflower"],
+					"Value": "vegetable_item_large",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Pumpkin"],
+					"Value": "vegetable_item_large",
+					"Delimiter": ", "
+				},
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Red Cabbage"],
+					"Value": "vegetable_item_large",
+					"Delimiter": ", "
+				}
+			]
+		},
+		{
+			"Action": "EditData",
+			"Target": "Data/ObjectInformation",
+			"Fields": {
+				"16": { // wild horseradish
+					3: "Basic -75" // category_vegetable
+				},
+				"20": { // leek
+					3: "Basic -75" // category_vegetable
+				},
+				"78": { // cave carrot
+					3: "Basic -75" // category_vegetable
+				},
+				"262": { // wheat
+					3: "Basic -25" // category_ingredients
+				},
+				"271": { // unmilled rice
+					3: "Basic -25" // category_ingredients
+				},
+				"304": { // hops
+					3: "Basic -25" // category_ingredients
+				},
+				"399": { // spring onion
+					3: "Basic -75" // category_vegetable
+				},
+				"412": { // winter root
+					3: "Basic -75" // category_vegetable
+				},
+				"416": { // snow yam
+					3: "Basic -75" // category_vegetable
+				},
+				"815": { // tea leaves
+					3: "Basic -25" // category_ingredients
+				},
+				"829": { // ginger
+					3: "Basic -75" // category_vegetable
+				}
+			}
+		}
+	]
+}

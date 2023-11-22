@@ -1,0 +1,261 @@
+{
+	"Format": "1.20.0",
+
+//	Set any rings to any of these.
+//	"FromFile": "assets/ace_bracelet.png",
+//	"FromFile": "assets/enby_bracelet.png",
+//	"FromFile": "assets/lesbian_bracelet.png",
+//	"FromFile": "assets/rainbow_bracelet.png",
+//	"FromFile": "assets/trans_bracelet.png",
+
+	"Changes": [
+//		{
+			//	Amethyst Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 16, "Y": 352, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Aquamarine Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 48, "Y": 352, "Width": 16, "Height": 16}
+//		},
+		{
+			//	Burglar Ring
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/rainbow_bracelet.png",
+			"ToArea":
+			{	"X": 352, "Y": 336, "Width": 16, "Height": 16}
+		},
+//		{
+			//	Combined Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 256, "Y": 576, "Width": 16, "Height": 16}
+//		},
+		{
+			//	Crabshell Ring
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/trans_bracelet.png",
+			"ToArea":
+			{	"X": 288, "Y": 528, "Width": 16, "Height": 16}
+		},
+//		{
+			//	Emerald Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 80, "Y": 352, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Glow Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 208, "Y": 336, "Width": 16, "Height": 16}
+//		},
+		{
+			//	Glowstone Ring
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/enby_bracelet.png",
+			"ToArea":
+			{	"X": 0, "Y": 592, "Width": 16, "Height": 16}
+		},
+//		{
+			//	Hot Java Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 320, "Y": 560, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Immunity Band
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 368, "Y": 576, "Width": 16, "Height": 16}
+//		},
+		{
+			//	Iridium Band
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/lesbian_bracelet.png",
+			"ToArea":
+			{	"X": 368, "Y": 336, "Width": 16, "Height": 16}
+		},
+//		{
+			//	Jade Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 64, "Y": 352, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Jukebox Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 0, "Y": 352, "Width": 16, "Height": 16}
+//		},
+		{
+			//	Lucky Ring
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/ace_bracelet.png",
+			"ToArea":
+			{	"X": 304, "Y": 560, "Width": 16, "Height": 16}
+		},
+//		{
+			//	Magnet Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 240, "Y": 336, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Napalm Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 304, "Y": 528, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Phoenix Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 368, "Y": 560, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Protection Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 336, "Y": 560, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Ruby Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 96, "Y": 352, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Savage Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 304, "Y": 336, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Slime Charmer Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 256, "Y": 336, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Small Glow Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 192, "Y": 336, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Small Magnet Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 224, "Y": 336, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Soul Sapper Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 352, "Y": 560, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Sturdy Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 336, "Y": 336, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Thorns Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 368, "Y": 544, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Topaz Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 32, "Y": 352, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Vampire Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 288, "Y": 336, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Warrior Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 272, "Y": 336, "Width": 16, "Height": 16}
+//		},
+//		{
+			//	Wedding Ring
+//			"Action": "EditImage",
+//			"Target": "Maps/springobjects",
+//			"FromFile": "assets/rainbow_bracelet.png",
+//			"ToArea":
+//			{	"X": 144, "Y": 528, "Width": 16, "Height": 16}
+//		},
+		{
+			//	Ring of Yoba
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/rainbow_bracelet.png",
+			"ToArea":
+			{	"X": 320, "Y": 336, "Width": 16, "Height": 16}
+		}
+	]
+}

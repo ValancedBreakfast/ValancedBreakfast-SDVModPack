@@ -1,0 +1,13 @@
+﻿{
+	"Name": "[MFM] Recipes with Context Tags",
+	"Author": "ValancedBreakfast",
+	"Version": "1.0.0",
+	"Description": "Mailed recipes with context tags.",
+	"UniqueID": "ValancedBreakfast.DGARecipesMail",
+	"MinimumApiVersion": "3.8.0",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod",
+        "MinimumVersion": "1.10.1"
+	}
+}

@@ -1,0 +1,92 @@
+{
+  "Name": "Kitty Ears",
+
+  "FrontAccessory": {
+    "ColorMasks":[
+    [217, 217, 217],
+    [165, 165, 165],
+    [110, 110, 110],
+    [77, 77, 77],
+    [57, 57, 57]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    }
+  },
+
+  "RightAccessory": {
+    "ColorMasks":[
+      [217, 217, 217],
+      [165, 165, 165],
+      [110, 110, 110],
+      [77, 77, 77],
+      [57, 57, 57]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 32
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    }
+  },
+
+  "LeftAccessory": {
+    "Flipped": true,
+    "ColorMasks":[
+      [217, 217, 217],
+      [165, 165, 165],
+      [110, 110, 110],
+      [77, 77, 77],
+      [57, 57, 57]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 32
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    }
+  },
+
+  "BackAccessory": {
+    "ColorMasks":[
+      [217, 217, 217],
+      [165, 165, 165],
+      [110, 110, 110],
+      [77, 77, 77],
+      [57, 57, 57]
+    ],
+    "StartingPosition": {
+      "X": 0,
+      "Y": 64
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 32
+    }
+  }
+}

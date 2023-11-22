@@ -1,0 +1,15 @@
+﻿{
+  "Name": "[PFM] Large Batch Producers",
+  "Author": "ValancedBreakfast",
+  "Version": "1.0",
+  "Description": "Mushroom box: longer, multiyield. Bee House: longer, multiyield, sees forage, garden pots, and fruit trees, longer range.",
+  "UniqueID": "ValancedBreakfast.LargeBatchProducers",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+	  { "UniqueID": "Digus.ProducerFrameworkMod", "MinimumVersion": "1.4.2" }
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Digus.ProducerFrameworkMod"
+  }
+}

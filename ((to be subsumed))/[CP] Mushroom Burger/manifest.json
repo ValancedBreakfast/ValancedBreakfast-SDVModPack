@@ -1,0 +1,11 @@
+{
+  "Name": "Mushroom Burger",
+  "Author": "cindyexe",
+  "Version": "1.1.1",
+  "Description": "Cook survival burger with common mushrooms instead of eggplants.",
+  "UniqueID": "cindyexe.mb",
+  "UpdateKeys": [ "Nexus:8833" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

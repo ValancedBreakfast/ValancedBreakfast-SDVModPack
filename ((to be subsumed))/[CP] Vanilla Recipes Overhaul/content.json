@@ -1,0 +1,831 @@
+{
+"Format": "1.13.0",
+
+"ConfigSchema": {
+
+	"Chest": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+		
+	"Torch": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+		
+	"Wood Sign": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+		
+	"Stone Sign": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+		}, 
+		
+	"Scarecrow": {
+	    "AllowValues": "true, false",
+	    "Default": "true",
+        "AllowBlank": false,
+	},
+	
+	"Deluxe Scarecrow": {
+	    "AllowValues": "true, false",
+	    "Default": "true",
+        "AllowBlank": false,
+	},
+					
+	"Wood Fence": {
+	    "AllowValues": "true, false",
+	    "Default": "true",
+	    "AllowBlank": false,
+	},
+	
+	"Tapper": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+		
+	"Gate": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+		
+	"Furnace": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+	
+	"Wood Lamp-post": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+		
+	"Iron Lamp-post": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	}, 
+
+	"Lightning Rod": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Preserves Jar": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+	
+	"Bee House": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+	
+	"Keg": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+	
+	"Charcoal Kiln": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Cask": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+	
+	"Recycling Machine": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+	
+	"Crystalarium": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+	
+	"Worm Bin": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Slime Incubator": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+	
+	"Grass Starter": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},	
+	
+	"Tree Fertilizer": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},	
+
+	"Slime Egg-Press": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Explosive Ammo": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Tea Sapling": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Rain Totem": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Life Elixir": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Oil Of Garlic": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Wild Bait": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Crab Pot": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Seed Maker": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Garden Pot": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Mayonnaise Machine": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Oil Maker": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Loom": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Cheese Press": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+	
+	"Stone Fence": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Staircase": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+	"Campfire": {
+		"AllowValues": "true, false",
+		"Default": "true",
+		"AllowBlank": false,
+	},
+
+  },
+		
+"Changes": [
+
+//Chest 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+             "Chest": {
+                "0": "388 10"
+             }, 
+		  },
+		    "When": {
+			"Chest": "true",
+			},
+       },
+	 
+//Torch 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Torch": {
+			 "0": "388 1 92 1"
+			 },
+          },
+		    "When": {
+			"Torch": "true",
+			},
+       },
+	   
+//Wood Sign 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Wood Sign": {
+			 "0": "388 5"
+			 },
+          },
+		  	"When": {
+			"Wood Sign": "true",
+			},
+       },
+	   
+//Stone Sign 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Stone Sign": {
+			 "0": "390 5"
+			 },
+          },
+		  	"When": {
+			"Stone Sign": "true",
+			},
+       },
+	   
+//Scarecrow 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Scarecrow": {
+			 "0": "388 5 382 1 771 5"
+			 },
+          },
+		  	"When": {
+			"Scarecrow": "true",
+			},
+       },		
+	      
+//Deluxe Scarecrow 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Deluxe Scarecrow": {
+			 "0": "388 8 386 1 771 7"
+			 },
+          },
+		  	"When": {
+			"Deluxe Scarecrow": "true",
+			},
+       }, 
+		  
+//Wood Fence 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Wood Fence": {
+			 "0": "388 1"
+			 },
+          },
+		  	"When": {
+			"Wood Fence": "true",
+			},
+       },		
+	   
+//Tapper 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Tapper": {
+			 "0": "334 1 388 10"
+			 },
+          },
+		  	"When": {
+			"Tapper": "true",
+			},
+       },		
+	   
+//Gate 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Gate": {
+			 "0": "388 5"
+			 },
+          },
+		  	"When": {
+			"Gate": "true",
+			},
+       },		
+	     
+//Furnace 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Furnace": {
+			 "0": "390 15 330 5"
+			 },
+          },
+		  	"When": {
+			"Furnace": "true",
+			},
+       },		
+	   
+//Wood Lamp-post 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Wood Lamp-post": {
+			 "0": "388 10 93 1"
+			 },
+          },
+		  	"When": {
+			"Wood Lamp-post": "true",
+			},
+       },		
+	   
+//Iron Lamp-post
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Iron Lamp-post": {
+			 "0": "335 1 93 1"
+			 },
+          },
+		  	"When": {
+			"Iron Lamp-post": "true",
+			},
+       },
+
+//Lightning Rod 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Lightning Rod": {
+			 "0": "335 1 338 1 767 1"
+			 },
+          },
+		  	"When": {
+			"Lightning Rod": "true",
+			},
+       },		
+	   
+//Preserves Jar 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Preserves Jar": {
+			 "0": "388 10 390 8 382 2"
+			 },
+          },
+		  	"When": {
+			"Preserves Jar": "true",
+			},
+       },		
+	   
+//Bee House 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Bee House": {
+			 "0": "388 10 382 2 335 1 92 1"
+			 },
+          },
+		  	"When": {
+			"Bee House": "true",
+			},
+       },		
+	   
+//Keg 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Keg": {
+			 "0": "388 10 334 1 335 1 92 1"
+			 },
+          },
+		  	"When": {
+			"Keg": "true",
+			},
+       },		
+	   
+//Charcoal Kiln 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Charcoal Kiln": {
+			 "0": "390 10 330 5 334 1"
+			 },
+          },
+		  	"When": {
+			"Charcoal Kiln": "true",
+			},
+       },		
+
+//Cask 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Cask": {
+			 "0": "388 10 709 1"
+			 },
+          },
+		  	"When": {
+			"Cask": "true",
+			},
+       },	
+
+//Recycling Machine 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Recycling Machine": {
+			 "0": "388 12 390 12 335 1"
+			 },
+          },
+		  	"When": {
+			"Recycling Machine": "true",
+			},
+       },
+
+//Crystalarium 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Crystalarium": {
+			 "0": "390 40 336 3 337 1 787 1"
+			 },
+          },
+		  	"When": {
+			"Crystalarium": "true",
+			},
+       },
+
+//Worm Bin 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Worm Bin": {
+			 "0": "709 10 330 8 335 1 771 10"
+			 },
+          },
+		  	"When": {
+			"Worm Bin": "true",
+			},
+       },
+
+//Slime Incubator 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Slime Incubator": {
+			 "0": "336 2 337 1 766 10"
+			 },
+          },
+		  	"When": {
+			"Slime Incubator": "true",
+			},
+       },
+
+//Grass Starter 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Grass Starter": {
+			 "0": "771 4"
+			 },
+          },
+		  	"When": {
+			"Grass Starter": "true",
+			},
+       },
+
+//Tree Fertilizer 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Tree Fertilizer": {
+			 "0": "771 2 330 4"
+			 },
+          },
+		  	"When": {
+			"Tree Fertilizer": "true",
+			},
+       },
+	   
+//Slime Egg-Press 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Slime Egg-Press": {
+			 "0": "382 6 80 1 787 1"
+			 },
+          },
+		  	"When": {
+			"Slime Egg-Press": "true",
+			},
+       },
+
+//Explosive Ammo 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Explosive Ammo": {
+			 "0": "378 1 382 1"
+			 },
+          },
+		  	"When": {
+			"Explosive Ammo": "true",
+			},
+       },
+
+//Tea Sapling 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Tea Sapling": {
+			 "0": "770 2 771 1 330 1"
+			 },
+          },
+		  	"When": {
+			"Tea Sapling": "true",
+			},
+       },	  
+
+//Rain Totem 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Rain Totem": {
+			 "0": "709 1 725 1 726 1"
+			 },
+          },
+		  	"When": {
+			"Rain Totem": "true",
+			},
+       },
+
+//Life Elixir 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Life Elixir": {
+			 "0": "724 1 420 1 404 1 766 1"
+			 },
+          },
+		  	"When": {
+			"Life Elixir": "true",
+			},
+       },
+
+//Oil Of Garlic 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Oil Of Garlic": {
+			 "0": "247 1 248 2"
+			 },
+          },
+		  	"When": {
+			"Oil Of Garlic": "true",
+			},
+       },
+
+//Wild Bait 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Wild Bait": {
+			 "0": "771 2 684 1 766 1"
+			 },
+          },
+		  	"When": {
+			"Wild Bait": "true",
+			},
+       },
+
+//Crab Pot 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Crab Pot": {
+			 "0": "388 10 335 1"
+			 },
+          },
+		  	"When": {
+			"Crab Pot": "true",
+			},
+       },
+	  
+//Seed Maker 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Seed Maker": {
+			 "0": "388 12 382 2 334 1"
+			 },
+          },
+		  	"When": {
+			"Seed Maker": "true",
+			},
+       },	  
+	  
+//Garden Pot 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Garden Pot": {
+			 "0": "330 1 388 4 92 2"
+			 },
+          },
+		  	"When": {
+			"Garden Pot": "true",
+			},
+       },	  
+	  
+//Mayonnaise Machine 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Mayonnaise Machine": {
+			 "0": "388 8 390 8 86 1 334 1"
+			 },
+          },
+		  	"When": {
+			"Mayonnaise Machine": "true",
+			},
+       },	  
+	  
+//Oil Maker 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Oil Maker": {
+			 "0": "766 25 709 10 336 1"
+			 },
+          },
+		  	"When": {
+			"Oil Maker": "true",
+			},
+       },	  
+	  
+//Loom 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Loom": {
+			 "0": "388 30 771 10 726 1"
+			 },
+          },
+		  	"When": {
+			"Loom": "true",
+			},
+       },	  
+
+//Cheese Press 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Cheese Press": {
+			 "0": "388 20 390 15 709 4 334 1"
+			 },
+          },
+		  	"When": {
+			"Cheese Press": "true",
+			},
+       },
+
+//Stone Fence 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Stone Fence": {
+			 "0": "390 1"
+			 },
+          },
+		  	"When": {
+			"Stone Fence": "true",
+			},
+       },	
+
+//Staircase 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Staircase": {
+			 "0": "390 10"
+			 },
+          },
+		  	"When": {
+			"Staircase": "true",
+			},
+       },	
+
+//Campfire 
+	   {
+          "Action": "EditData",
+          "Target": "Data/CraftingRecipes",
+          "Fields": {
+			 "Campfire": {
+			 "0": "390 4 388 4 771 4"
+			 },
+          },
+		  	"When": {
+			"Campfire": "true",
+			},
+       },
+	  
+	]
+}	
