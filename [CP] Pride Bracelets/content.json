@@ -425,7 +425,6 @@
 			"FromFile": "assets/{{Topaz Ring Appearance}}_bracelet.png",
 			"ToArea":
 			{	"X": 32, "Y": 352, "Width": 16, "Height": 16},
-		},
 			"When": {
 				"Query: '{{Topaz Ring Appearance}}' = 'default'": false
 			}
