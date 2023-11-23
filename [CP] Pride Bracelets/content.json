@@ -21,6 +21,10 @@
             "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
             "Default": "default"
         },
+        "Combined Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
         "Crabshell Ring Appearance": {
             "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
             "Default": "default"
