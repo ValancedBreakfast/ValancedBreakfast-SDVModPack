@@ -7,3 +7,6 @@
  try it again
  once more
  what does this find
+ can i just empty the folder, remake it, and then delete the git files?
+ 
+ 
