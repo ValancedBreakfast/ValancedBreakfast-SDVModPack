@@ -9,6 +9,4 @@
  what does this find
  can i just empty the folder, remake it, and then delete the git files?
  maybe this deletes the git folder
- just a goof test
- 
  
