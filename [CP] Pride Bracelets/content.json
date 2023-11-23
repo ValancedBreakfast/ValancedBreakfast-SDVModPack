@@ -429,6 +429,7 @@
 				"Query: '{{Topaz Ring Appearance}}' = 'default'": false
 			}
 		},
+		{
 			//	Vampire Ring
 			"Action": "EditImage",
 			"Target": "Maps/springobjects",
