@@ -1,8 +1,8 @@
 {
-   "Name": "[CP] Pride Bracelets",
+   "Name": "Pride Bracelets",
    "Author": "ValancedBreakfast",
-   "Version": "1.0",
-   "Description": "Retexture rings to pride bracelets",
+   "Version": "1.1",
+   "Description": "Retexture rings to pride bracelets using content patcher",
    "UniqueID": "ValancedBreakfast.PrideBracelets",
    "MinimumApiVersion": "3.9.0",
    "ContentPackFor": {
