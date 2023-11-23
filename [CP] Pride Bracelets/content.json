@@ -149,7 +149,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Aquamarine Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 48, "Y": 352, "Width": 16, "Height": 16}
+			{	"X": 48, "Y": 352, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Aquamarine Ring Appearance}}' = 'default'": false
 			}
@@ -160,7 +160,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Burglar's Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 352, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 352, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Burglar's Ring Appearance}}' = 'default'": false
 			}
@@ -171,7 +171,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Combined Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 256, "Y": 576, "Width": 16, "Height": 16}
+			{	"X": 256, "Y": 576, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Combined Ring Appearance}}' = 'default'": false
 			}
@@ -182,7 +182,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Crabshell Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 288, "Y": 528, "Width": 16, "Height": 16}
+			{	"X": 288, "Y": 528, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Crabshell Ring Appearance}}' = 'default'": false
 			}
@@ -193,7 +193,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Emerald Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 80, "Y": 352, "Width": 16, "Height": 16}
+			{	"X": 80, "Y": 352, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Emerald Ring Appearance}}' = 'default'": false
 			}
@@ -204,7 +204,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Glow Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 208, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 208, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Glow Ring Appearance}}' = 'default'": false
 			}
@@ -215,7 +215,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Glowstone Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 0, "Y": 592, "Width": 16, "Height": 16}
+			{	"X": 0, "Y": 592, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Glowstone Ring Appearance}}' = 'default'": false
 			}
@@ -226,7 +226,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Hot Java Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 320, "Y": 560, "Width": 16, "Height": 16}
+			{	"X": 320, "Y": 560, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Hot Java Ring Appearance}}' = 'default'": false
 			}
@@ -237,7 +237,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Immunity Band Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 368, "Y": 576, "Width": 16, "Height": 16}
+			{	"X": 368, "Y": 576, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Immunity Band Appearance}}' = 'default'": false
 			}
@@ -248,7 +248,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Iridium Band Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 368, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 368, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Iridium Band Appearance}}' = 'default'": false
 			}
@@ -259,7 +259,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Jade Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 64, "Y": 352, "Width": 16, "Height": 16}
+			{	"X": 64, "Y": 352, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Jade Ring Appearance}}' = 'default'": false
 			}
@@ -270,7 +270,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Jukebox Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 0, "Y": 352, "Width": 16, "Height": 16}
+			{	"X": 0, "Y": 352, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Jukebox Ring Appearance}}' = 'default'": false
 			}
@@ -281,7 +281,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Lucky Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 304, "Y": 560, "Width": 16, "Height": 16}
+			{	"X": 304, "Y": 560, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Lucky Ring Appearance}}' = 'default'": false
 			}
@@ -292,7 +292,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Magnet Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 240, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 240, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Magnet Ring Appearance}}' = 'default'": false
 			}
@@ -303,7 +303,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Napalm Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 304, "Y": 528, "Width": 16, "Height": 16}
+			{	"X": 304, "Y": 528, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Napalm Ring Appearance}}' = 'default'": false
 			}
@@ -314,7 +314,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Phoenix Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 368, "Y": 560, "Width": 16, "Height": 16}
+			{	"X": 368, "Y": 560, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Phoenix Ring Appearance}}' = 'default'": false
 			}
@@ -325,7 +325,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Protection Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 336, "Y": 560, "Width": 16, "Height": 16}
+			{	"X": 336, "Y": 560, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Protection Ring Appearance}}' = 'default'": false
 			}
@@ -336,7 +336,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Ruby Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 96, "Y": 352, "Width": 16, "Height": 16}
+			{	"X": 96, "Y": 352, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Ruby Ring Appearance}}' = 'default'": false
 			}
@@ -347,7 +347,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Savage Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 304, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 304, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Savage Ring Appearance}}' = 'default'": false
 			}
@@ -358,7 +358,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Slime Charmer Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 256, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 256, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Slime Charmer Ring Appearance}}' = 'default'": false
 			}
@@ -369,7 +369,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Small Glow Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 192, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 192, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Small Glow Ring Appearance}}' = 'default'": false
 			}
@@ -380,7 +380,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Small Magnet Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 224, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 224, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Small Magnet Ring Appearance}}' = 'default'": false
 			}
@@ -391,7 +391,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Soul Sapper Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 352, "Y": 560, "Width": 16, "Height": 16}
+			{	"X": 352, "Y": 560, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Soul Sapper Ring Appearance}}' = 'default'": false
 			}
@@ -402,7 +402,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Sturdy Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 336, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 336, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Sturdy Ring Appearance}}' = 'default'": false
 			}
@@ -413,7 +413,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Thorns Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 368, "Y": 544, "Width": 16, "Height": 16}
+			{	"X": 368, "Y": 544, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Thorns Ring Appearance}}' = 'default'": false
 			}
@@ -424,7 +424,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Topaz Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 32, "Y": 352, "Width": 16, "Height": 16}
+			{	"X": 32, "Y": 352, "Width": 16, "Height": 16},
 		},
 			"When": {
 				"Query: '{{Topaz Ring Appearance}}' = 'default'": false
@@ -435,7 +435,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Vampire Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 288, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 288, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Vampire Ring Appearance}}' = 'default'": false
 			}
@@ -446,7 +446,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Warrior Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 272, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 272, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Warrior Ring Appearance}}' = 'default'": false
 			}
@@ -457,7 +457,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Wedding Ring Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 144, "Y": 528, "Width": 16, "Height": 16}
+			{	"X": 144, "Y": 528, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Wedding Ring Appearance}}' = 'default'": false
 			}
@@ -468,7 +468,7 @@
 			"Target": "Maps/springobjects",
 			"FromFile": "assets/{{Ring of Yoba Appearance}}_bracelet.png",
 			"ToArea":
-			{	"X": 320, "Y": 336, "Width": 16, "Height": 16}
+			{	"X": 320, "Y": 336, "Width": 16, "Height": 16},
 			"When": {
 				"Query: '{{Ring of Yoba Appearance}}' = 'default'": false
 			}
