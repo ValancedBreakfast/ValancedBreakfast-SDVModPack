@@ -38,23 +38,4 @@
             }
         ]
     },
-// Fried Egg
-    {
-        "$ItemType": "CraftingRecipe",
-        "ID": "Fried Egg",
-        "IsCooking": true,
-		"Result": {
-            "Type": "VanillaObject",
-            "Value": 194,
-            "Quantity": 1
-        },
-        "Ingredients": [
-            {
-            	"Type": "ContextTag",
-            	"Value": "cooking_ingredient_carrot",
-				"NameOverride": "any carrot",
-            	"IconOverride": "Assets/anycarrot.png:0"
-            },
-        ]
-    },
 ]
