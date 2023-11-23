@@ -1,261 +1,477 @@
 {
 	"Format": "1.20.0",
 
-//	Set any rings to any of these.
-//	"FromFile": "assets/ace_bracelet.png",
-//	"FromFile": "assets/enby_bracelet.png",
-//	"FromFile": "assets/lesbian_bracelet.png",
-//	"FromFile": "assets/rainbow_bracelet.png",
-//	"FromFile": "assets/trans_bracelet.png",
+	//Set any rings to any of these.
+	//"FromFile": "assets/asexual_bracelet.png",
+	//"FromFile": "assets/lesbian_bracelet.png",
+	//"FromFile": "assets/nonbinary_bracelet.png",
+	//"FromFile": "assets/rainbow_bracelet.png",
+	//"FromFile": "assets/trans_bracelet.png",
+
+    "ConfigSchema": {
+        "Amethyst Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Aquamarine Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Burglar's Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Crabshell Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Emerald Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Glow Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Glowstone Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Hot Java Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Immunity Band Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Iridium Band Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Jade Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Jukebox Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Lucky Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Magnet Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Napalm Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Phoenix Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Protection Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Ring of Yoba Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Ruby Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Savage Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Slime Charmer Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Small Glow Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Small Magnet Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Soul Sapper Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Sturdy Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Thorns Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Topaz Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Vampire Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Warrior Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+        "Wedding Ring Appearance": {
+            "AllowValues": "default, asexual, lesbian, nonbinary, rainbow, trans",
+            "Default": "default"
+        },
+    },
 
 	"Changes": [
-//		{
-			//	Amethyst Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 16, "Y": 352, "Width": 16, "Height": 16}
-//		},
-//		{
-			//	Aquamarine Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 48, "Y": 352, "Width": 16, "Height": 16}
-//		},
 		{
-			//	Burglar Ring
+			//	Amethyst Ring
 			"Action": "EditImage",
 			"Target": "Maps/springobjects",
-			"FromFile": "assets/rainbow_bracelet.png",
+			"FromFile": "assets/{{Amethyst Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 16, "Y": 352, "Width": 16, "Height": 16},
+			"When": {
+				"Query: '{{Amethyst Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
+			//	Aquamarine Ring
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Aquamarine Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 48, "Y": 352, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Aquamarine Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
+			//	Burglar's Ring
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Burglar's Ring Appearance}}_bracelet.png",
 			"ToArea":
 			{	"X": 352, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Burglar's Ring Appearance}}' = 'default'": false
+			}
 		},
-//		{
+		{
 			//	Combined Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 256, "Y": 576, "Width": 16, "Height": 16}
-//		},
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Combined Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 256, "Y": 576, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Combined Ring Appearance}}' = 'default'": false
+			}
+		},
 		{
 			//	Crabshell Ring
 			"Action": "EditImage",
 			"Target": "Maps/springobjects",
-			"FromFile": "assets/trans_bracelet.png",
+			"FromFile": "assets/{{Crabshell Ring Appearance}}_bracelet.png",
 			"ToArea":
 			{	"X": 288, "Y": 528, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Crabshell Ring Appearance}}' = 'default'": false
+			}
 		},
-//		{
+		{
 			//	Emerald Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 80, "Y": 352, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Emerald Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 80, "Y": 352, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Emerald Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Glow Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 208, "Y": 336, "Width": 16, "Height": 16}
-//		},
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Glow Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 208, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Glow Ring Appearance}}' = 'default'": false
+			}
+		},
 		{
 			//	Glowstone Ring
 			"Action": "EditImage",
 			"Target": "Maps/springobjects",
-			"FromFile": "assets/enby_bracelet.png",
+			"FromFile": "assets/{{Glowstone Ring Appearance}}_bracelet.png",
 			"ToArea":
 			{	"X": 0, "Y": 592, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Glowstone Ring Appearance}}' = 'default'": false
+			}
 		},
-//		{
+		{
 			//	Hot Java Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 320, "Y": 560, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Hot Java Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 320, "Y": 560, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Hot Java Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Immunity Band
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 368, "Y": 576, "Width": 16, "Height": 16}
-//		},
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Immunity Band Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 368, "Y": 576, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Immunity Band Appearance}}' = 'default'": false
+			}
+		},
 		{
 			//	Iridium Band
 			"Action": "EditImage",
 			"Target": "Maps/springobjects",
-			"FromFile": "assets/lesbian_bracelet.png",
+			"FromFile": "assets/{{Iridium Band Appearance}}_bracelet.png",
 			"ToArea":
 			{	"X": 368, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Iridium Band Appearance}}' = 'default'": false
+			}
 		},
-//		{
+		{
 			//	Jade Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 64, "Y": 352, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Jade Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 64, "Y": 352, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Jade Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Jukebox Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 0, "Y": 352, "Width": 16, "Height": 16}
-//		},
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Jukebox Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 0, "Y": 352, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Jukebox Ring Appearance}}' = 'default'": false
+			}
+		},
 		{
 			//	Lucky Ring
 			"Action": "EditImage",
 			"Target": "Maps/springobjects",
-			"FromFile": "assets/ace_bracelet.png",
+			"FromFile": "assets/{{Lucky Ring Appearance}}_bracelet.png",
 			"ToArea":
 			{	"X": 304, "Y": 560, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Lucky Ring Appearance}}' = 'default'": false
+			}
 		},
-//		{
+		{
 			//	Magnet Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 240, "Y": 336, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Magnet Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 240, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Magnet Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Napalm Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 304, "Y": 528, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Napalm Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 304, "Y": 528, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Napalm Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Phoenix Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 368, "Y": 560, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Phoenix Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 368, "Y": 560, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Phoenix Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Protection Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 336, "Y": 560, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Protection Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 336, "Y": 560, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Protection Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Ruby Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 96, "Y": 352, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Ruby Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 96, "Y": 352, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Ruby Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Savage Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 304, "Y": 336, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Savage Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 304, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Savage Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Slime Charmer Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 256, "Y": 336, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Slime Charmer Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 256, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Slime Charmer Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Small Glow Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 192, "Y": 336, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Small Glow Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 192, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Small Glow Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Small Magnet Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 224, "Y": 336, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Small Magnet Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 224, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Small Magnet Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Soul Sapper Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 352, "Y": 560, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Soul Sapper Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 352, "Y": 560, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Soul Sapper Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Sturdy Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 336, "Y": 336, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Sturdy Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 336, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Sturdy Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Thorns Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 368, "Y": 544, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Thorns Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 368, "Y": 544, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Thorns Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Topaz Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 32, "Y": 352, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Topaz Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 32, "Y": 352, "Width": 16, "Height": 16}
+		},
+			"When": {
+				"Query: '{{Topaz Ring Appearance}}' = 'default'": false
+			}
+		},
 			//	Vampire Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 288, "Y": 336, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Vampire Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 288, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Vampire Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Warrior Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 272, "Y": 336, "Width": 16, "Height": 16}
-//		},
-//		{
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Warrior Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 272, "Y": 336, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Warrior Ring Appearance}}' = 'default'": false
+			}
+		},
+		{
 			//	Wedding Ring
-//			"Action": "EditImage",
-//			"Target": "Maps/springobjects",
-//			"FromFile": "assets/rainbow_bracelet.png",
-//			"ToArea":
-//			{	"X": 144, "Y": 528, "Width": 16, "Height": 16}
-//		},
+			"Action": "EditImage",
+			"Target": "Maps/springobjects",
+			"FromFile": "assets/{{Wedding Ring Appearance}}_bracelet.png",
+			"ToArea":
+			{	"X": 144, "Y": 528, "Width": 16, "Height": 16}
+			"When": {
+				"Query: '{{Wedding Ring Appearance}}' = 'default'": false
+			}
+		},
 		{
 			//	Ring of Yoba
 			"Action": "EditImage",
 			"Target": "Maps/springobjects",
-			"FromFile": "assets/rainbow_bracelet.png",
+			"FromFile": "assets/{{Ring of Yoba Appearance}}_bracelet.png",
 			"ToArea":
 			{	"X": 320, "Y": 336, "Width": 16, "Height": 16}
-		}
+			"When": {
+				"Query: '{{Ring of Yoba Appearance}}' = 'default'": false
+			}
+		},
 	]
 }
