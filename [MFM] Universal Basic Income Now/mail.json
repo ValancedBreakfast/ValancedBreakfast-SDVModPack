@@ -1,15 +1,10 @@
 [
 	{
-		"Id": "UBINow.GetPaid", // Letter id. It's important to be an unique string to avoid conflicts. Also it shouldn't have space characters.
-		"GroupId": null, // Letter group id. Letters with the same group id are never delivered in the same day. Letters registered first have priority, unless the group id ends with ".Random", in that case, a random letter will be chosen. Default is null.
-		"Title": null, // Letter title. Will be shown in the collections menu. Set it null or remove the line if you don't want the letter to appear in the collection. If an translation file is provide, you should put a translation key here, but you can still leave if null for no Title.
-		"Text": "Dear @^Please find enclosed your weekly basic income.%item money 10000 %%", // Text of the letter. You can use @ to put the players name and ^ for line breaks. You can also use the base game commands to add money, items and stuff. If an translation file is provide, you should put a translation key here.
-		"WhichBG": 0, //The id of the letter background. 0 = classic, 1 = notepad, 2 = pyramids
-		"Repeatable": true, // If true the mod won't check it the letter Id has already been delivered. Default is false.
-		"AutoOpen": false, // If true the mod will open the letter at the begin of the day after the conditions are met. The letter id will be marked as read and if there is a recipe set, it will be learned. Since the letter will never show, visual properties like title, text, background... will never be used, as well as the attachments.
-		// CONDITIONS FOR DELIVERY
-		//Below are conditions for the delivery. Remove any of the lines if you don't want to check that condition.
-		"Days": [3,10,17,24], // Must be one of the days in the list.
-		//"Seasons": ["spring"]
+		"Id": "UBINow.GetPaid",
+		"Text": "Dear @^Please find enclosed your weekly basic income.%item money 10000 %%",
+		// To Change Income Amount: change 10000 to any other number
+		"Repeatable": true,
+		"Days": [3,10,17,24],
+		// To Change Day Received: change array to the dates of each season to receive UBI
 	}
 ]
